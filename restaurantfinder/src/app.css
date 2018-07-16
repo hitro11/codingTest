@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;  
+}
+
+.searchbar-container {
+  margin: 2em 0;
+  padding: 0 4em;
+  display: inline-block; 
+}
+
+
+
+.restaurant-list-container {
+  margin: 7em;
+}
+
+.restaurant-list-container table {
+  width: 100%;
+  text-align: left
+}
